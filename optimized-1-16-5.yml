@@ -1,0 +1,17 @@
+name: "Optimized server configs for 1.16.5"
+authors: ["artur9010"]
+website: "https://minecraft-list.org"
+icon: "https://spigot.pl/filebase/images/file/a8/6.png"
+categories: ["Misc"]
+
+tagline: "Optimized server configs (bukkit.yml, spigot.yml, paper.yml, purpur.yml) for version 1.16.5."
+description: |
+  Optimized server configs (bukkit.yml, spigot.yml, paper.yml, purpur.yml) for version 1.16.5.
+  Just download, unpack and upload (and replace) to your server files.
+
+  To enable End just change "allow-end" in bukkit.yml from false to true.
+  To enable fish spawning just change "water-animals" and "water-ambint" in bukkit.yml to something higher than 0.
+
+versions:
+  - version: "v1"
+    download: "https://drive.google.com/file/d/1HkgAvAdEHieQ2V9D2CqYBlhBKo8H2TXD/view?usp=sharing"

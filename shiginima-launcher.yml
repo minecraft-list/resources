@@ -1,0 +1,12 @@
+name: "Shiginima Launcher"
+authors: ["Keinett"]
+icon: "https://v.wpimg.pl/ZWQ4Ni5wdTYwVjhaGgx4I3MObABcVXZ1JBZ0SxoUdWNhTHpZGh43MH9QIQtHEiolPlM8CFgOdCc9GwcEVBA_JH5gIQZZPjk4Pxt2WA1AbHhgAXpZURNvM3wCegtWWm4yYgVjUANGaXowVS0LVhRuNjRQdl8bBzQwc0k"
+categories: ["Launcher"]
+
+tagline: "Popular unofficial Minecraft launcher"
+description: |
+  Requires Java - https://java.com/pl/download/ie_manual.jsp?locale=en&host=java.com:80
+
+versions:
+  - version: "v4.400"
+    download: "https://download.dpcdn.pl/po_godzinach/ShiginimaSE_v4400.zip"
