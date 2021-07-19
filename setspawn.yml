@@ -16,3 +16,5 @@ description: |
 versions:
   - version: "2.3.3"
     download: "https://dev.bukkit.org/projects/setspawn/files/3316767/download"
+  - version: "2.3.2"
+    download: "https://spigot.pl/filebase/download/2/"
