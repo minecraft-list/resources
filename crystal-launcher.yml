@@ -1,0 +1,12 @@
+name: "Crystal Launcher"
+authors: ["Crystal Launcher"]
+icon: "https://crystal-launcher.pl/res/logo_shadow.png"
+categories: ["Launcher"]
+
+tagline: "Popular unofficial Minecraft launcher"
+description: |
+  Popular unofficial Minecraft launcher
+
+versions:
+  - version: "latest"
+    download: "https://crystal-launcher.pl/p/downloads"
