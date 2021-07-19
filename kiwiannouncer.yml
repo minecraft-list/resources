@@ -1,0 +1,15 @@
+name: "KiwiAnnouncer"
+authors: ["artur9010"]
+website: "https://kiwimc.pl"
+icon: "https://www.spigotmc.org/data/resource_icons/86/86240.jpg?1606657467"
+categories: ["Chat"]
+
+tagline: "Simple plugin that allows you to post announcements on bossbar"
+description: |
+    Simple plugin that allows you to post announcements on bossbar.
+
+    It has one command - /announce <text> that allows you to send text manually and a config where you can define messages that will be sent automatically.
+
+versions:
+  - version: "1.0"
+    download: "https://www.spigotmc.org/resources/kiwiannouncer.86240/download?version=369626"
