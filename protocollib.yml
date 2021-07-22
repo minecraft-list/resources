@@ -8,3 +8,42 @@ description: |
   Provides read/write access to the Minecraft protocol
 
 spigotmc-id: 1997
+versions:
+- version: 4.7.0
+  download: https://www.spigotmc.org/resources/1997/download?version=408253
+- version: 4.6.0
+  download: https://www.spigotmc.org/resources/1997/download?version=383725
+- version: 4.5.1
+  download: https://www.spigotmc.org/resources/1997/download?version=383724
+- version: 4.5.1
+  download: https://www.spigotmc.org/resources/1997/download?version=335408
+- version: 4.5.0
+  download: https://www.spigotmc.org/resources/1997/download?version=306586
+- version: 4.4.0
+  download: https://www.spigotmc.org/resources/1997/download?version=241216
+- version: 4.3.0
+  download: https://www.spigotmc.org/resources/1997/download?version=165553
+- version: 4.2.1
+  download: https://www.spigotmc.org/resources/1997/download?version=153512
+- version: 4.2.0
+  download: https://www.spigotmc.org/resources/1997/download?version=131115
+- version: 4.1.0
+  download: https://www.spigotmc.org/resources/1997/download?version=115233
+- version: 4.0.2
+  download: https://www.spigotmc.org/resources/1997/download?version=102071
+- version: 4.0.1
+  download: https://www.spigotmc.org/resources/1997/download?version=91076
+- version: 4.0.0
+  download: https://www.spigotmc.org/resources/1997/download?version=89492
+- version: 3.7.0-BETA
+  download: https://www.spigotmc.org/resources/1997/download?version=73870
+- version: 3.6.5
+  download: https://www.spigotmc.org/resources/1997/download?version=69182
+- version: 3.6.4
+  download: https://www.spigotmc.org/resources/1997/download?version=33748
+- version: 3.6.3-SNAPSHOT
+  download: https://www.spigotmc.org/resources/1997/download?version=6965
+- version: 3.6.1-SNAPSHOT
+  download: https://www.spigotmc.org/resources/1997/download?version=6925
+- version: 3.6.0-SNAPSHOT
+  download: https://www.spigotmc.org/resources/1997/download?version=6696
