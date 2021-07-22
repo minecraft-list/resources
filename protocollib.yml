@@ -1,0 +1,10 @@
+name: ProtocolLib
+authors: [dmulloy2]
+icon: https://i.imgur.com/9cPCH8H.png
+categories: [API]
+
+tagline: Provides read/write access to the Minecraft protocol
+description: |
+  Provides read/write access to the Minecraft protocol
+
+spigotmc-id: 1997
