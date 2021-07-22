@@ -11,19 +11,19 @@ description: |
 spigotmc-id: 34315
 
 versions:
-- version: 1.6.6
-  download: https://www.spigotmc.org/resources/34315/download?version=134420
-- version: Version 1.6.6
-  download: https://www.spigotmc.org/resources/34315/download?version=134421
-- version: 1.6.7
-  download: https://www.spigotmc.org/resources/34315/download?version=235725
+- version: 1.7.3
+  download: https://www.spigotmc.org/resources/34315/download?version=344916
+- version: 1.7.2
+  download: https://www.spigotmc.org/resources/34315/download?version=271004
 - version: 1.7.1
-  download: https://www.spigotmc.org/resources/34315/download?version=239780
+  download: https://www.spigotmc.org/resources/34315/download?version=254141
 - version: 1.6.7
   download: https://www.spigotmc.org/resources/34315/download?version=240549
 - version: 1.7.1
-  download: https://www.spigotmc.org/resources/34315/download?version=254141
-- version: 1.7.2
-  download: https://www.spigotmc.org/resources/34315/download?version=271004
-- version: 1.7.3
-  download: https://www.spigotmc.org/resources/34315/download?version=344916
+  download: https://www.spigotmc.org/resources/34315/download?version=239780
+- version: 1.6.7
+  download: https://www.spigotmc.org/resources/34315/download?version=235725
+- version: Version 1.6.6
+  download: https://www.spigotmc.org/resources/34315/download?version=134421
+- version: 1.6.6
+  download: https://www.spigotmc.org/resources/34315/download?version=134420
