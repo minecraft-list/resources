@@ -1,0 +1,14 @@
+name: LogBlock
+authors: [Brokkonaut]
+icon: https://www.spigotmc.org/data/resource_icons/67/67333.jpg?1557709541
+categories: [Mechanics]
+
+tagline: Log block changes, entity kills and more
+description: |
+  LogBlock is one of the most mature and most used logging tools available. It can log nearly all block and entity changes, has a versatile query system and can rollback those changes. But not only its extremely powerful - it’s also blazing fast! Hundreds of thousands of log entries can be looked up and rolled back in just a few seconds.
+
+  To store the data a MySQL database is used, allowing developers to hook in and produce things such as player stats and even administrative panels. All database access is done in separate threads to avoid any negative impact on the server performance. There are a lot of config options to optimize LogBlock for your servers requirements. You can decide what is logged and for how long and you even can configure your own tools to simplify log queries!
+
+  LogBlock was originally created by bootswithdefer in 2010 for HMod, ported to Bukkit by DiddiZ and continued by md_5, ammar2 and others. Currently it is maintained by Brokkonaut. We accept pull requests on GitHub frequently which means that community developers can add features they wish to see quicker than LogBlock developers are able to from tickets.
+
+spigotmc-id: 67333
