@@ -11,6 +11,12 @@ description: |
 
   LogBlock was originally created by bootswithdefer in 2010 for HMod, ported to Bukkit by DiddiZ and continued by md_5, ammar2 and others. Currently it is maintained by Brokkonaut. We accept pull requests on GitHub frequently which means that community developers can add features they wish to see quicker than LogBlock developers are able to from tickets.
 
+  **Development Builds**
+  We have a build server where you can download the latest development builds. Those builds include the newest features and bug fixes. But as they are development builds there might be bugs, so be careful and test those build when updating.
+
+  You can download our Dev Builds here: https://www.iani.de/jenkins/job/LogBlock/
+
+
 spigotmc-id: 67333
 versions:
 - version: 1.16.5.1
