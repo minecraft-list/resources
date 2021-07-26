@@ -12,3 +12,22 @@ description: |
   LogBlock was originally created by bootswithdefer in 2010 for HMod, ported to Bukkit by DiddiZ and continued by md_5, ammar2 and others. Currently it is maintained by Brokkonaut. We accept pull requests on GitHub frequently which means that community developers can add features they wish to see quicker than LogBlock developers are able to from tickets.
 
 spigotmc-id: 67333
+versions:
+- version: 1.16.5.1
+  download: https://www.spigotmc.org/resources/67333/download?version=394081
+- version: 1.16.5
+  download: https://www.spigotmc.org/resources/67333/download?version=393865
+- version: 1.16.1.1
+  download: https://www.spigotmc.org/resources/67333/download?version=343420
+- version: 1.16.1
+  download: https://www.spigotmc.org/resources/67333/download?version=340186
+- version: 1.15.2
+  download: https://www.spigotmc.org/resources/67333/download?version=313984
+- version: 1.15.1
+  download: https://www.spigotmc.org/resources/67333/download?version=306351
+- version: 1.14.1
+  download: https://www.spigotmc.org/resources/67333/download?version=273576
+- version: '1.13.2 #64'
+  download: https://www.spigotmc.org/resources/67333/download?version=273575
+- version: 1.13.2
+  download: https://www.spigotmc.org/resources/67333/download?version=273305
