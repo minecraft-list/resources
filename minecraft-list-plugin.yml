@@ -19,4 +19,4 @@ description: |
 
 versions:
   - version: "1.0"
-    download: "https://minecraft-list.org/static/minecraft-list-1.0.jar"
+    download: "https://minecraft-list-public.s3.filebase.com/minecraft-list-plugin/minecraft-list-1.0.jar"
