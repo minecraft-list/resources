@@ -1,7 +1,6 @@
 name: "SetSpawn"
 authors: ["artur9010"]
 website: "https://minecraft-list.org"
-icon: "https://media.forgecdn.net/attachments/136/401/Bez_nazwy-2.png"
 categories: ["Mechanics", "Teleportation"]
 
 tagline: "Simple plugin that allows you to teleport to the spawnpoint."
