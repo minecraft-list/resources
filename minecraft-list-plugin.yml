@@ -1,6 +1,7 @@
 name: "Minecraft-List.org Vote Rewards plugin"
 authors: ["artur9010"]
 website: "https://minecraft-list.org"
+category: "Spigot - Misc"
 categories: ["Misc"]
 
 tagline: "Simple plugin that allows you to reward players for voting without using Votifier."

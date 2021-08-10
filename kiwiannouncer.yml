@@ -2,6 +2,7 @@ name: "KiwiAnnouncer"
 authors: ["artur9010"]
 website: "https://kiwimc.pl"
 icon: "https://www.spigotmc.org/data/resource_icons/86/86240.jpg?1606657467"
+category: "Spigot - Chat"
 categories: ["Chat"]
 
 tagline: "Simple plugin that allows you to post announcements on bossbar"

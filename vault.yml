@@ -1,6 +1,7 @@
 name: Vault
 authors: [Sleaker]
 icon: https://www.spigotmc.org/data/resource_icons/34/34315.jpg?1483592228
+category: "Spigot - API"
 categories: [API]
 
 tagline: Vault is a Permissions, Chat, & Economy API to give plugins easy hooks into

@@ -2,6 +2,7 @@ name: "CraftservePVP"
 authors: ["TheMolkaPL"]
 website: "https://craftserve.pl"
 icon: "https://spigot.pl/filebase/images/file/c0/3.png"
+category: "Spigot - PVP"
 categories: ["Mechanics", "PVP"]
 
 tagline: "CraftservePVP is a plugin that improves PVP on newer versions of Minecraft Java Edition."

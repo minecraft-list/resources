@@ -1,5 +1,6 @@
 name: PaperMC 1.17
 authors: [PaperMC Team]
+category: "Minecraft - Server software"
 categories: [Server software]
 
 tagline: Paper is the next generation of Minecraft server, compatible with Spigot plugins, offering uncompromising performance.

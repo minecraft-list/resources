@@ -1,6 +1,7 @@
 name: SkinsRestorer
 authors: [SRTeam]
 icon: https://www.spigotmc.org/data/resource_icons/2/2124.jpg?1613507589
+category: "Spigot - Mechanics"
 categories: [Mechanics]
 
 tagline: Ability to restore/change skins on servers! (Offline and Online Mode).

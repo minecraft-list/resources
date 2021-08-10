@@ -1,6 +1,7 @@
 name: LogBlock
 authors: [Brokkonaut]
 icon: https://www.spigotmc.org/data/resource_icons/67/67333.jpg?1557709541
+category: "Spigot - Mechanics"
 categories: [Mechanics]
 
 tagline: Log block changes, entity kills and more

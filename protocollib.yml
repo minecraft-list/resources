@@ -1,5 +1,6 @@
 name: ProtocolLib
 authors: [dmulloy2]
+category: "Spigot - API"
 categories: [API]
 
 tagline: Provides read/write access to the Minecraft protocol

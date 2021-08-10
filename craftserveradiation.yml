@@ -2,6 +2,7 @@ name: "CraftserveRadiation"
 authors: ["TheMolkaPL"]
 website: "https://craftserve.pl"
 icon: "https://spigot.pl/filebase/images/file/c0/3.png"
+category: "Spigot - Mechanics"
 categories: ["Mechanics"]
 
 tagline: "Spigot plugin that adds radiation zone."
