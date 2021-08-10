@@ -1,0 +1,13 @@
+name: "MultiMC"
+icon: "https://multimc.org/images/infinity32.png"
+category: "Minecraft - Launcher"
+
+tagline: "MultiMC is a free, open source launcher for Minecraft."
+description: |
+  MultiMC is a free, open source launcher for Minecraft. It allows you to have multiple, cleanly separated instances of Minecraft (each with their own mods, resource packs, saves, etc) and helps you manage them and their associated options with a simple and powerful interface.
+  
+  ![screenshoot](https://multimc.org/images/screenshots/main.png)
+
+versions:
+  - version: "latest"
+    download: "https://multimc.org/#Download"
