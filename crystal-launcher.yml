@@ -1,5 +1,6 @@
 name: "Crystal Launcher"
 icon: "https://crystal-launcher.pl/res/logo_shadow.png"
+category: "Minecraft - Launcher"
 categories: ["Launcher"]
 
 tagline: "Popular unofficial Minecraft launcher"
