@@ -1,0 +1,13 @@
+name: "[MyBB] uCraft Theme"
+authors: [artur9010]
+category: "Web"
+
+tagline: Minecraft themed MyBB style.
+description: |
+  Minecraft themed MyBB style.
+  
+  ![screenshoot](https://i.imgur.com/lHZS0PN.png)
+
+versions:
+- version: 1.0
+  download: https://minecraft-list-public.s3.filebase.com/ucraft-theme.zip
