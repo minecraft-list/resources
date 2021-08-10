@@ -5,7 +5,9 @@ categories: ["Launcher"]
 
 tagline: "Popular unofficial Minecraft launcher"
 description: |
-  Requires Java - https://java.com/pl/download/ie_manual.jsp?locale=en&host=java.com:80
+  Popular unofficial Minecraft launcher.
+
+  Requires Java - https://java.com/pl/download/ie_manual.jsp
 
 versions:
   - version: "v4.400"
