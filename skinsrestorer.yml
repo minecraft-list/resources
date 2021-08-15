@@ -1,7 +1,7 @@
 name: SkinsRestorer
 authors: [SRTeam]
 icon: https://www.spigotmc.org/data/resource_icons/2/2124.jpg?1613507589
-category: "Spigot - Mechanics"
+category: Spigot - Mechanics
 categories: [Mechanics]
 
 tagline: Ability to restore/change skins on servers! (Offline and Online Mode).
@@ -27,6 +27,10 @@ description: |
 
 spigotmc-id: 2124
 versions:
+- version: 14.1.3
+  download: https://www.spigotmc.org/resources/2124/download?version=414442
+- version: 14.1.2
+  download: https://www.spigotmc.org/resources/2124/download?version=414347
 - version: 14.1.1
   download: https://www.spigotmc.org/resources/2124/download?version=406482
 - version: 14.1.0
