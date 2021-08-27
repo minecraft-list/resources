@@ -1,0 +1,10 @@
+name: CraftserveRadiation
+authors: [TheMolkaPL]
+website: https://craftserve.pl
+icon: https://spigot.pl/filebase/images/file/c0/3.png
+category: Spigot - Mechanics
+
+tagline: Spigot plugin that adds radiation zone.
+versions:
+- version: '1.2'
+  download: https://github.com/Craftserve/CraftserveRadiation/releases/download/v1.2/CraftserveRadiation-1.2.jar

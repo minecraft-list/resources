@@ -1,0 +1,8 @@
+name: MultiMC
+icon: https://multimc.org/images/infinity32.png
+category: Minecraft - Launcher
+
+tagline: MultiMC is a free, open source launcher for Minecraft.
+versions:
+- version: latest
+  download: https://multimc.org/#Download

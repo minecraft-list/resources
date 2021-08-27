@@ -1,0 +1,13 @@
+name: CraftservePVP
+authors: [TheMolkaPL]
+website: https://craftserve.pl
+icon: https://spigot.pl/filebase/images/file/c0/3.png
+category: Spigot - PVP
+
+tagline: CraftservePVP is a plugin that improves PVP on newer versions of Minecraft
+  Java Edition.
+versions:
+- version: '1.1'
+  download: https://www.spigotmc.org/resources/craftservepvp.85103/download?version=376799
+- version: '1.0'
+  download: https://www.spigotmc.org/resources/craftservepvp.85103/download?version=363200

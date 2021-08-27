@@ -1,0 +1,9 @@
+name: Shiginima Launcher
+authors: [Keinett]
+icon: https://v.wpimg.pl/ZWQ4Ni5wdTYwVjhaGgx4I3MObABcVXZ1JBZ0SxoUdWNhTHpZGh43MH9QIQtHEiolPlM8CFgOdCc9GwcEVBA_JH5gIQZZPjk4Pxt2WA1AbHhgAXpZURNvM3wCegtWWm4yYgVjUANGaXowVS0LVhRuNjRQdl8bBzQwc0k
+category: Minecraft - Launcher
+
+tagline: Popular unofficial Minecraft launcher
+versions:
+- version: v4.400
+  download: https://minecraft-list-public.s3.filebase.com/shiginima-launcher/ShiginimaSE_v4400.zip

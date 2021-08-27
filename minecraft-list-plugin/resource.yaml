@@ -1,0 +1,10 @@
+name: Minecraft-List.org Vote Rewards plugin
+authors: [artur9010]
+website: https://minecraft-list.org
+category: Spigot - Misc
+
+tagline: Simple plugin that allows you to reward players for voting without using
+  Votifier.
+versions:
+- version: '1.0'
+  download: https://minecraft-list-public.s3.filebase.com/minecraft-list-plugin/minecraft-list-1.0.jar

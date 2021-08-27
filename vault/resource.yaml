@@ -1,0 +1,26 @@
+name: Vault
+authors: [Sleaker]
+icon: https://www.spigotmc.org/data/resource_icons/34/34315.jpg?1483592228
+category: Spigot - API
+
+tagline: Vault is a Permissions, Chat, & Economy API to give plugins easy hooks into
+  these systems.
+spigotmc-id: 34315
+
+versions:
+- version: 1.7.3
+  download: https://www.spigotmc.org/resources/34315/download?version=344916
+- version: 1.7.2
+  download: https://www.spigotmc.org/resources/34315/download?version=271004
+- version: 1.7.1
+  download: https://www.spigotmc.org/resources/34315/download?version=254141
+- version: 1.6.7
+  download: https://www.spigotmc.org/resources/34315/download?version=240549
+- version: 1.7.1
+  download: https://www.spigotmc.org/resources/34315/download?version=239780
+- version: 1.6.7
+  download: https://www.spigotmc.org/resources/34315/download?version=235725
+- version: Version 1.6.6
+  download: https://www.spigotmc.org/resources/34315/download?version=134421
+- version: 1.6.6
+  download: https://www.spigotmc.org/resources/34315/download?version=134420

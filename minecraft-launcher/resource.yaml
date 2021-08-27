@@ -1,0 +1,8 @@
+name: Minecraft Launcher
+icon: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/img/GrassBlock_HighRes.png
+category: Minecraft - Launcher
+
+tagline: Official Minecraft launcher
+versions:
+- version: latest
+  download: https://www.minecraft.net/en-us/download
