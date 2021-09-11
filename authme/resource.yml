@@ -1,10 +1,8 @@
 name: AuthMeReloaded
 authors: [Xephi59]
-icon: https://www.spigotmc.org/data/resource_icons/6/6269.jpg?1512144392
 category: Spigot - Mechanics
 
 tagline: The best authentication plugin for the Bukkit/Spigot API!
-spigotmc-id: 6269
 versions:
 - version: latest CI
   download: https://ci.codemc.io/job/AuthMe/job/AuthMeReloaded/lastSuccessfulBuild/artifact/target/AuthMe-5.6.0-SNAPSHOT.jar
