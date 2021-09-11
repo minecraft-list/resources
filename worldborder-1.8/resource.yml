@@ -1,0 +1,9 @@
+name: WorldBorder for 1.8
+authors: [Brettflan]
+icon: https://media.forgecdn.net/avatars/70/967/636163239461587549.png
+category: Spigot - Misc
+
+tagline: This plugin is intended to efficiently provide a border for each of your worlds, which only people granted special bypass access are allowed beyond.
+versions:
+- version: '1.8.6'
+  download: https://dev.bukkit.org/projects/worldborder/files/937149/download
