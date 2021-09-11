@@ -1,17 +1,11 @@
-# Basic resource YAML
+# Resource YAML
 
 ```yaml
 name: "My Great Plugin"
 authors: ["Steve", "Alex"]
 website: "https://minecraft-list.org"
-icon: "https://example.org/icon64.png"
 
 tagline: "Some weird text shown at resource list"
-description: |
-  Line 1
-  Line 2
-  Much permissions
-  Very commands
 
 versions:
   - version: "1.0.1"
@@ -20,19 +14,10 @@ versions:
     download: "https://example.org/plugin-1.0.0.jar"
 ```
 
-# Categories
+# Resource description
 
-```yaml
-- "Chat"
-- "Tools"
-- "Misc"
-- "Fun"
-- "World Management"
-- "Mechanics"
-- "Economy"
-- "Game Mode"
-- "Skript"
-- "Libraries"
-- "PVP"
-- "Teleportation"
-```
+Just create a markdown file named `description.md`
+
+# Resource icon
+
+Upload icon in any graphics format (make sure that file is named `icon` with any extension)
