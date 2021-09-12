@@ -8,8 +8,8 @@ tagline: CraftservePVP is a plugin that improves PVP on newer versions of Minecr
   Java Edition.
 versions:
 - version: '1.2'
-  download: 'https://github.com/Craftserve/CraftservePVP/releases/download/v1.2/CraftservePVP-1.2.jar'
+  download: https://github.com/Craftserve/CraftservePVP/releases/download/v1.2/CraftservePVP-1.2.jar
 - version: '1.1'
-  download: https://www.spigotmc.org/resources/craftservepvp.85103/download?version=376799
+  download: https://github.com/Craftserve/CraftservePVP/releases/download/v1.1/CraftservePVP-1.1.jar
 - version: '1.0'
-  download: https://www.spigotmc.org/resources/craftservepvp.85103/download?version=363200
+  download: https://github.com/Craftserve/CraftservePVP/releases/download/v1.0/CraftservePVP-1.0.jar
