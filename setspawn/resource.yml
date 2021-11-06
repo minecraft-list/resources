@@ -1,10 +1,12 @@
 name: SetSpawn
 authors: [artur9010]
-website: https://minecraft-list.org
+website: https://mclist.io
 category: Spigot - Teleportation
 
 tagline: Simple plugin that allows you to teleport to the spawnpoint.
-versions:
+releases:
+- version: 2.3.4
+  download: https://minecraft-list-public.s3.filebase.com/setspawn-2.3.4-SNAPSHOT.jar
 - version: 2.3.3
   download: https://dev.bukkit.org/projects/setspawn/files/3316767/download
 - version: 2.3.2
