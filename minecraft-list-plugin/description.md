@@ -9,3 +9,5 @@ commands:
   - "say %player% thank you for your vote at mclist.io"
   - "give %player% dirt 1"
 ```
+
+![bstats](https://bstats.org/signatures/bukkit/minecraft-list.svg)
