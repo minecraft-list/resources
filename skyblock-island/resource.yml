@@ -1,0 +1,8 @@
+name: '[1.12.2] SkyBlock Island'
+authors: [artur9010]
+category: "Minecraft - Maps"
+
+tagline: Simple island for 1.12.2 SkyBlock server
+versions:
+- version: 1.0
+  download: https://mclist.s3.filebase.com/skyblock-island.zip
