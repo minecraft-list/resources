@@ -6,7 +6,7 @@ category: Spigot - Teleportation
 tagline: Simple plugin that allows you to teleport to the spawnpoint.
 releases:
 - version: "2.3.5"
-  download: "https://mclist.s3.filebase.com/setspawn-2.3.5-SNAPSHOT.jar"
+  download: "https://s3.mclist.io/setspawn-2.3.5-SNAPSHOT.jar"
 - version: "2.3.4"
   download: "https://minecraft-list-public.s3.filebase.com/setspawn-2.3.4-SNAPSHOT.jar"
 - version: "2.3.3"
