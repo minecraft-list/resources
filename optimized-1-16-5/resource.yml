@@ -1,11 +1,11 @@
 name: Optimized server configs for 1.16.5
 authors: [artur9010]
 website: https://mclist.io
-icon: https://s3.mclist.io/icons/stonks.png
+icon: https://mclist.io/s3/icons/stonks.png
 category: Spigot - Config
 
 tagline: Optimized server configs (bukkit.yml, spigot.yml, paper.yml, purpur.yml)
   for version 1.16.5.
 versions:
 - version: v1
-  download: "https://s3.mclist.io/optimized-1.16.5.zip"
+  download: "https://mclist.io/s3/optimized-1.16.5.zip"

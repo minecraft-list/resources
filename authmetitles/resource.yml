@@ -5,4 +5,4 @@ category: Spigot - Misc
 tagline: Display titles to unauthenticated or unregistered players
 versions:
 - version: 1.0.0 for 1.16
-  download: https://s3.mclist.io/authmetitles-1.0-SNAPSHOT.jar
+  download: https://mclist.io/s3/authmetitles-1.0-SNAPSHOT.jar
