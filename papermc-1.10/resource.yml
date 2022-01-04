@@ -1,0 +1,9 @@
+name: PaperMC 1.10.2
+authors: [PaperMC Team]
+category: Minecraft - Server software
+
+tagline: Paper is the next generation of Minecraft server, compatible with Spigot
+  plugins, offering uncompromising performance.
+versions:
+- version: 'Build 918'
+  download: https://mclist.io/s3/papermc/paper-1.10.2-918.jar
