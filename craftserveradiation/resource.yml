@@ -6,6 +6,8 @@ category: Spigot - Mechanics
 
 tagline: Spigot plugin that adds radiation zone.
 versions:
+- version: '1.4'
+  download: "https://github.com/Craftserve/CraftserveRadiation/releases/download/v1.4/CraftserveRadiation-1.4.jar"
 - version: '1.3'
   download: https://github.com/Craftserve/CraftserveRadiation/releases/download/v1.3/CraftserveRadiation-1.3.jar
 - version: '1.2'
