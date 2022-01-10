@@ -1,0 +1,11 @@
+name: Optimized server configs for 1.18.1
+authors: [artur9010]
+website: https://mclist.io
+icon: https://mclist.io/s3/icons/stonks.png
+category: Spigot - Config
+
+tagline: Optimized server configs (bukkit.yml, spigot.yml, paper.yml)
+  for version 1.18.1.
+versions:
+- version: v1
+  download: "https://mclist.io/s3/optimized-1.18-v1.zip"
