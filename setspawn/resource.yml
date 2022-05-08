@@ -6,8 +6,4 @@ category: Spigot - Teleportation
 tagline: Simple plugin that allows you to teleport to the spawnpoint.
 releases:
 - version: "2.3.7"
-  skylink: "FABd0ULNYYOn7_NJaLEA3rdDecqCm6Q7NZ68O5gkhJySZw"
-- version: "2.3.5"
-  skylink: "BAAGHhlsn5lc_wPZacuah5HKv8PaYSbJ555NkoW_A6Jtgw"
-- version: "2.3.4"
-  skylink: "BACkHLPqmffJZMPkT-4m5e2VDJishc8WOmB-Ue-Do-3r9Q"
+  download: "https://spigot.pl/filebase/file/2-setspawn/"
